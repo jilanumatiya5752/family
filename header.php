@@ -29,9 +29,9 @@
                                             <li><a href="app.php">App Design</a></li>
                                             <li><a href="logo.php">Logo Design</a></li>
                                             <li><a href="software.php">Software Development</a></li>
-                                             <li><a href="">Content Writing</a></li>
-                                            <li><a href="">Email Marketing</a></li>
-                                            <li><a href="">SEO,SMO & Digital Marketing</a></li>
+                                             <li><a href="writing.php">Content Writing</a></li>
+                                            <li><a href="email.php">Email Marketing</a></li>
+                                            <li><a href="seo.php">SEO,SMO & Digital Marketing</a></li>
                                         </ul>
                                     </li> 
                                     <li>

@@ -6,37 +6,40 @@ require_once dirname(__FILE__) . '/main.php';
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
 
 <div class="topic-border color-cinnabar mb-30">
-        <div class="topic-box-lg color-cinnabar">Software Development</div>
+        <div class="topic-box-lg color-cinnabar">Content Writing</div>
 	</div>
     	<div class="about-info">
 			<div class="about-img">
-				<img src="img/service03.jpg" alt="App Design">
+				<img src="img/service02.jpg" alt="App Design">
 			</div>
 			<div>
-			<p> <b><span style="color: red;">Software Development</span></b> is an online office to represent your company /brand and so it must be professional, easy to navigate, mobile friendly, SEO based and with apt software to handle your client’s inquiry or payments. We are a leading logo designing company in India to offer the best service within your budget. We not only design your logo but also care about your product presentation, promotion through SEO, SMO, Digital Marketing and handle business through our sales management system.<br><br>
-                <b>Software Development involves considering various factors that represent your company's identity. Here are some key points to consider when designing a logo for your company:</b><br>
-                <b>1.)Clear Vision and Mission:</b><br>
-                    » Define a clear vision and mission for the company.<br>
-                    » Clearly articulate the goals and objectives of the software development activities.</br></br>
+			<p> <b><span style="color: red;">Content Writing</span></b> is an online office to represent your company /brand and so it must be professional, easy to navigate, mobile friendly, SEO based and with apt software to handle your client’s inquiry or payments. We are a leading Content Writinging company in India to offer the best service within your budget. We not only design your logo but also care about your product presentation, promotion through SEO, SMO, Digital Marketing and handle business through our sales management system.<br><br>
+                <b>Content Writing involves considering various factors that represent your company's identity. Here are some key points to consider when designing a logo for your company:</b><br>
+                <b>1.)Introduction:</b><br>
+                    » Begin with a brief introduction to the importance of quality content in today's digital landscape.<br>
+                    » Highlight the role of effective content in engaging audiences and building brand identity.</br></br>
                 
-                <b>2.)Quality Assurance:</b><br>
-                     » Implement robust quality assurance processes to ensure the delivery of high-quality software products.<br>
-                     » Establish testing procedures, automated testing, and continuous integration practices.</br></br>
+                <b>2.)Our Approach:</b><br>
+                     » Emphasize the company's unique approach to content creation.<br>
+                     »Discuss how the team understands the client's brand voice, target audience, and business objectives.</br></br>
                 
-                <b>3.)Agile Development Methodology:</b><br>
-                     »  Adopt agile development methodologies for flexibility and adaptability.</br>
-                     »  Embrace iterative development and frequent releases to respond to changing requirements.</br></br>
+                <b>3.)SEO Optimization:</b><br>
+                     »  Explain how the company integrates SEO best practices into its content writing services.</br>
+                     »  Discuss the importance of SEO-friendly content for online visibility and search engine rankings.</br></br>
                 
-                <b>4.)Talent Acquisition and Development:</b><br>
-                      »  Recruit and retain skilled and talented software developers.</br>
-                      »  Provide ongoing training and professional development opportunities for the team.</br></br>
-                
-                
+                <b>4.)Engagement and Conversion:</b><br>
+                      »  Discuss how the content is crafted to not only attract but also engage and convert the target audience.</br>
+                      »  Provide examples or case studies of successful content campaigns.</br></br>
+                  
+                <b>5.)Customization:</b><br>
+                      »  Emphasize the company's ability to tailor content according to the client's specific needs and preferences.</br>
+                      »  Discuss the importance of a customized approach for effective communication.</br></br>
+
 			</p>
 			</div>
 		</div>
         <div class="container mt-4">
-    <h2 style="color:red;">Software Development Package:-</h2>
+    <h2 style="color:red;">Content Writing Package:-</h2>
     <br>
   <table class="table table-bordered">
     <thead class="thead-dark">

@@ -6,18 +6,18 @@ require_once dirname(__FILE__) . '/main.php';
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
 
 <div class="topic-border color-cinnabar mb-30">
-        <div class="topic-box-lg color-cinnabar">Software Development</div>
+        <div class="topic-box-lg color-cinnabar">SEO,SMO & Digital Marketing</div>
 	</div>
     	<div class="about-info">
 			<div class="about-img">
-				<img src="img/service03.jpg" alt="App Design">
+				<img src="img/service01.jpg" alt="App Design">
 			</div>
 			<div>
-			<p> <b><span style="color: red;">Software Development</span></b> is an online office to represent your company /brand and so it must be professional, easy to navigate, mobile friendly, SEO based and with apt software to handle your client’s inquiry or payments. We are a leading logo designing company in India to offer the best service within your budget. We not only design your logo but also care about your product presentation, promotion through SEO, SMO, Digital Marketing and handle business through our sales management system.<br><br>
-                <b>Software Development involves considering various factors that represent your company's identity. Here are some key points to consider when designing a logo for your company:</b><br>
+			<p> <b><span style="color: red;">SEO,SMO & Digital Marketing</span></b> is an online office to represent your company /brand and so it must be professional, easy to navigate, mobile friendly, SEO based and with apt software to handle your client’s inquiry or payments. We are a leading logo designing company in India to offer the best service within your budget. We not only design your logo but also care about your product presentation, promotion through SEO, SMO, Digital Marketing and handle business through our sales management system.<br><br>
+                <b>SEO,SMO & Digital Marketing involves considering various factors that represent your company's identity. Here are some key points to consider when designing a logo for your company:</b><br>
                 <b>1.)Clear Vision and Mission:</b><br>
                     » Define a clear vision and mission for the company.<br>
-                    » Clearly articulate the goals and objectives of the software development activities.</br></br>
+                    » Clearly articulate the goals and objectives of the SEO,SMO & Digital Marketing activities.</br></br>
                 
                 <b>2.)Quality Assurance:</b><br>
                      » Implement robust quality assurance processes to ensure the delivery of high-quality software products.<br>
@@ -36,7 +36,7 @@ require_once dirname(__FILE__) . '/main.php';
 			</div>
 		</div>
         <div class="container mt-4">
-    <h2 style="color:red;">Software Development Package:-</h2>
+    <h2 style="color:red;">SEO,SMO & Digital Marketing Package:-</h2>
     <br>
   <table class="table table-bordered">
     <thead class="thead-dark">

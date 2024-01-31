@@ -6,37 +6,37 @@ require_once dirname(__FILE__) . '/main.php';
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
 
 <div class="topic-border color-cinnabar mb-30">
-        <div class="topic-box-lg color-cinnabar">Software Development</div>
+        <div class="topic-box-lg color-cinnabar">Email Marketing</div>
 	</div>
     	<div class="about-info">
 			<div class="about-img">
 				<img src="img/service03.jpg" alt="App Design">
 			</div>
 			<div>
-			<p> <b><span style="color: red;">Software Development</span></b> is an online office to represent your company /brand and so it must be professional, easy to navigate, mobile friendly, SEO based and with apt software to handle your client’s inquiry or payments. We are a leading logo designing company in India to offer the best service within your budget. We not only design your logo but also care about your product presentation, promotion through SEO, SMO, Digital Marketing and handle business through our sales management system.<br><br>
-                <b>Software Development involves considering various factors that represent your company's identity. Here are some key points to consider when designing a logo for your company:</b><br>
-                <b>1.)Clear Vision and Mission:</b><br>
-                    » Define a clear vision and mission for the company.<br>
-                    » Clearly articulate the goals and objectives of the software development activities.</br></br>
+			<p> <b><span style="color: red;">Email Marketing</span></b> is an online office to represent your company /brand and so it must be professional, easy to navigate, mobile friendly, SEO based and with apt software to handle your client’s inquiry or payments. We are a leading Email Marketinging company in India to offer the best service within your budget. We not only design your logo but also care about your product presentation, promotion through SEO, SMO, Digital Marketing and handle business through our sales management system.<br><br>
+                <b>Email marketing can be a powerful tool for companies when used strategically. Here are some key points to consider for implementing an effective email marketing strategy:</b><br>
+                <b>1.)Build a Targeted Email List</b><br>
+                    » Collect email addresses through various channels such as your website, social media, events, and online/offline interactions.<br>
+                    » Segment your email list based on demographics, preferences, and behaviors for more targeted and personalized campaigns.</br></br>
                 
-                <b>2.)Quality Assurance:</b><br>
-                     » Implement robust quality assurance processes to ensure the delivery of high-quality software products.<br>
-                     » Establish testing procedures, automated testing, and continuous integration practices.</br></br>
+                <b>2.)Create Engaging Content:</b><br>
+                     » Craft compelling and relevant content that adds value to your subscribers.<br>
+                     » Discuss how the team understands the client's brand voice, target audience, and business objectives.</br></br>
                 
-                <b>3.)Agile Development Methodology:</b><br>
-                     »  Adopt agile development methodologies for flexibility and adaptability.</br>
-                     »  Embrace iterative development and frequent releases to respond to changing requirements.</br></br>
+                <b>3.)Mobile Optimization:</b><br>
+                     » Ensure that your email campaigns are mobile-friendly, as a significant portion of users check emails on mobile devices.</br></br>
                 
-                <b>4.)Talent Acquisition and Development:</b><br>
-                      »  Recruit and retain skilled and talented software developers.</br>
-                      »  Provide ongoing training and professional development opportunities for the team.</br></br>
-                
-                
+                <b>4.)Personalization:</b><br>
+                      »  Personalize your emails by addressing subscribers by their names and tailoring content based on their preferences and behavior.</br></br>
+                  
+                <b>5.)A/B Testing:</b><br>
+                      »  Test different elements of your emails, such as subject lines, content, images, and CTAs, to understand what resonates best with your audience.</br></br>
+
 			</p>
 			</div>
 		</div>
         <div class="container mt-4">
-    <h2 style="color:red;">Software Development Package:-</h2>
+    <h2 style="color:red;">Email Marketing Package:-</h2>
     <br>
   <table class="table table-bordered">
     <thead class="thead-dark">
@@ -97,7 +97,7 @@ require_once dirname(__FILE__) . '/main.php';
       <td>Yes</td>
     </tr>
     <tr>
-      <td>Content Writing</td>
+      <td>Email Marketing</td>
       <td>Optional</td>
       <td>Yes</td>
       <td>Yes</td>
