@@ -1,0 +1,80 @@
+#contactSection {
+  margin-bottom: 20px; }
+  #contactSection .sec-header {
+    margin-bottom: 50px; }
+    #contactSection .sec-header h2 {
+      color: #222429;
+      margin-bottom: 30px; }
+      #contactSection .sec-header h2 span {
+        color: #fb383b; }
+    #contactSection .sec-header p {
+      color: #666;
+      font-family: 'Rubik', sans-serif;
+      font-size: 16px;
+      margin-bottom: 0; }
+  #contactSection .icon-box {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; }
+    #contactSection .icon-box .icon {
+      background: #fb383b;
+      height: 60px;
+      width: 60px;
+      border-radius: 100px;
+      text-align: center;
+      margin-right: 15px; }
+      #contactSection .icon-box .icon .fal {
+        font-size: 20px;
+        padding-top: 20px;
+        color: #000; }
+    #contactSection .icon-box .txt p {
+      margin-bottom: 0;
+      color: #222429; }
+    #contactSection .icon-box .txt span {
+      color: #666;
+      font-family: 'Rubik', sans-serif;
+      font-size: 16px; }
+  #contactSection form .form-group .form-control {
+    font-family: 'Rubik', sans-serif;
+    background: #f4f5f9;
+    border: 1px solid #f4f5f9;
+    font-size: 15px;
+    padding: 20px;
+    border-radius: 8px; }
+  #contactSection form .form-group .form-control:focus {
+    box-shadow: none;
+    border: 1px solid #fb383b; }
+  #contactSection form .form-group input {
+    height: 62px; }
+
+#contactArea .contact-box {
+  background: #fb383b;
+  border-radius: 10px;
+  padding: 80px;
+  position: relative;
+  transform: translateY(80px);
+  z-index: 1; }
+
+#contactArea .row {
+  align-items: center; }
+
+#contactArea .sec-header h2 {
+  color: #222429;
+  margin-bottom: 0;
+  font-size: 60px;
+  line-height: 1.1; }
+  #contactArea .sec-header h2 span {
+    color: #fff; }
+
+#contactArea .layer-btn {
+  color: #fff; }
+
+#contactArea .layer-btn:hover {
+  color: #222429; }
+
+#contactArea .layer-btn::after {
+  background: #222429; }
+
+#contactArea .layer-btn::before {
+  background: #fff;
+  border: 1px solid #fff; }
