@@ -6,7 +6,7 @@
                 <div class="row no-gutters d-flex align-items-center">
                     <div class="col-lg-3 col-md-4 d-none d-lg-block">
                         <div class="logo-area">
-                            <a href="#" class="img-fluid">
+                            <a href="index.php" class="img-fluid">
                                 <img src="img/logo kutrim.png" alt="logo" class="img-fluid logos" >
                             </a>
                         </div>
@@ -34,9 +34,7 @@
                                             <li><a href="seo.php">SEO,SMO & Digital Marketing</a></li>
                                         </ul>
                                     </li> 
-                                    <li>
-                                    <a href="blog.php" class="redf">Blog</a>
-                                </li>
+                                   
                                  <li>
                                     <a href="contact.php" class="redf">Contact Us</a>
                                 </li>
