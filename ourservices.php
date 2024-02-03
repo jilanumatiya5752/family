@@ -5,13 +5,9 @@ include 'main.php';
 <link rel="stylesheet" href="css/contact.css">
 <section id="specialFeature" class="specialFeature2 px-lg-5">
       <div class="container">
-         <div class="row">
-            <div class="col">
-               <div class="sec-header">
-                  <h2>OUR SPECIAL SERVICES<span>.</span></h2>
-               </div>
-            </div>
-         </div>
+         <div class="topic-border color-cinnabar mb-30">
+        <div class="topic-box-lg color-cinnabar">OUR SERVICES</div>
+	</div>
          <div class="row">
             <div class="col-md-8 ">
                <div class="row">
@@ -106,7 +102,7 @@ include 'main.php';
                   <div class="row">
                      <div class="col">
                         <div class="img-box">
-                           <img src="img/service01.jpg" alt="">
+                           <img src="img/service01.jpg" alt="" >
                         </div>
                         <div class="txt-box">
                            <h3>SEO,SMO & Digital Marketing<span>.</span></h3>

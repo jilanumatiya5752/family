@@ -1,0 +1,80 @@
+
+header {
+  background: rgba(34 29 41 / 84%);
+  padding: 0.5rem 0;
+}
+
+.contaidner {
+  max-width: 1440px;
+  margin: 0 auto;
+  width: 100%;
+  padding: 0rem 1.5rem;
+}
+
+.contaidner nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav .logo-cl {
+  display: flex;
+  color: #fff;
+}
+
+.logo-cl img {
+  width: 30%;
+  object-fit: cover;
+  margin-right: 8px;
+}
+
+.logo-cl span {
+  font-size: 2rem;
+}
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+  width: 1200px;
+  padding-top: 14px;
+}
+
+nav ul li {
+  margin: 0rem 0.4rem;
+  align-items: center;
+  padding: 0.5rem 0.5rem;
+}
+
+nav ul li a {
+  text-decoration: none;
+  font-size: 1.1rem;
+  letter-spacing: 2.5px;
+  color: #fff;
+  padding: 0.7rem 1rem;
+}
+
+/* Add this CSS to your existing stylesheet or create a new one */
+
+.ne-dropdown-menu {
+  display: none; /* Hide the dropdown by default */
+  position: absolute;
+  background-color: #333; /* Background color of the dropdown */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Optional box shadow for a nice effect */
+  z-index: 1;
+}
+
+.ne-dropdown-menu li {
+  display: block;
+  padding: 10px;
+  text-align: left;
+}
+
+.ne-dropdown-menu a {
+  color: #fff; /* Text color of dropdown items */
+  text-decoration: none;
+  display: block;
+}
+
+/* Show the dropdown when hovering over the parent menu item */
+nav ul li:hover .ne-dropdown-menu {
+  display: block;
+}
